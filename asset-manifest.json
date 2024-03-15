@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vk-market/static/css/main.c069761b.css",
+    "main.js": "/vk-market/static/js/main.65cf2080.js",
+    "index.html": "/vk-market/index.html",
+    "main.c069761b.css.map": "/vk-market/static/css/main.c069761b.css.map",
+    "main.65cf2080.js.map": "/vk-market/static/js/main.65cf2080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c069761b.css",
+    "static/js/main.65cf2080.js"
+  ]
+}
