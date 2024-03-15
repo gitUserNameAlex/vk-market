@@ -1,0 +1,15 @@
+.cartItem {
+    margin: 30px;
+}
+
+.cardContent {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cardItemActions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
